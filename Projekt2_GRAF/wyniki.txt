@@ -1,0 +1,9 @@
+Najkrotsza sciezka: 0->0->
+Droga: 0
+
+Najkrotsza sciezka: 0->1->
+Droga: 3
+
+Najkrotsza sciezka: 0->1->2->
+Droga: 5
+

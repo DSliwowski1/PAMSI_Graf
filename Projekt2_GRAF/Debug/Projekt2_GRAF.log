@@ -1,0 +1,11 @@
+﻿  App.cpp
+c:\users\sliwa\source\pamsi\projekt2_graf\projekt2_graf\heap_dis.h(23): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\sliwa\source\pamsi\projekt2_graf\projekt2_graf\dijkstra.h(91): warning C4715: "Dijkstra”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\sliwa\source\pamsi\projekt2_graf\projekt2_graf\obsio.h(59): warning C4172: zwracanie adresu lokalnej zmiennej lub tymczasowej: wynikz
+c:\users\sliwa\source\pamsi\projekt2_graf\projekt2_graf\obsio.h(210): warning C4172: zwracanie adresu lokalnej zmiennej lub tymczasowej: wynikz
+c:\users\sliwa\source\pamsi\projekt2_graf\projekt2_graf\vertexls.h(111): warning C4715: "VertexLS<double>::isAdjacentTo”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\sliwa\source\pamsi\projekt2_graf\projekt2_graf\edgems.h(67): warning C4715: "EdgeMS<int>::Opposite”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\sliwa\source\pamsi\projekt2_graf\projekt2_graf\edgels.h(76): warning C4715: "EdgeLS<double>::Opposite”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\sliwa\source\pamsi\projekt2_graf\projekt2_graf\edgems.h(67): warning C4715: "EdgeMS<double>::Opposite”: niewszystkie ścieżki kodu zwracają wartość
+c:\users\sliwa\source\pamsi\projekt2_graf\projekt2_graf\heap_dis.h(82): warning C4715: "Heap_dis::RemoveMin”: niewszystkie ścieżki kodu zwracają wartość
+  Projekt2_GRAF.vcxproj -> C:\Users\sliwa\source\PAMSI\Projekt2_GRAF\Debug\Projekt2_GRAF.exe

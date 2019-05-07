@@ -1,0 +1,21 @@
+Najkrotsza sciezka: 0->4->6->
+Droga: 9
+
+Najkrotsza sciezka: 0->1->3->5->
+Droga: 11
+
+Najkrotsza sciezka: 0->4->
+Droga: 7
+
+Najkrotsza sciezka: 0->1->3->
+Droga: 9
+
+Najkrotsza sciezka: 0->2->
+Droga: 3
+
+Najkrotsza sciezka: 0->1->
+Droga: 4
+
+Najkrotsza sciezka: 0->0->
+Droga: 0
+

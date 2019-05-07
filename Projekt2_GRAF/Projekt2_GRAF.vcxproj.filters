@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Interface%27y">
+      <UniqueIdentifier>{7f54634c-7623-444b-86a9-94cac1d68e93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\GrafLS">
+      <UniqueIdentifier>{12c9d866-5635-4b2e-a2d8-a897503d63a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Lista">
+      <UniqueIdentifier>{06a6682a-b6b7-4727-92e0-252bcdc2916d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\GrafMS">
+      <UniqueIdentifier>{044363cf-e2b6-49e2-8f11-1ef76f853df5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Array.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="IEdeg.h">
+      <Filter>Pliki nagłówkowe\Interface%27y</Filter>
+    </ClInclude>
+    <ClInclude Include="IGraf.h">
+      <Filter>Pliki nagłówkowe\Interface%27y</Filter>
+    </ClInclude>
+    <ClInclude Include="IVertex.h">
+      <Filter>Pliki nagłówkowe\Interface%27y</Filter>
+    </ClInclude>
+    <ClInclude Include="EdgeLS.h">
+      <Filter>Pliki nagłówkowe\GrafLS</Filter>
+    </ClInclude>
+    <ClInclude Include="GrafLS.h">
+      <Filter>Pliki nagłówkowe\GrafLS</Filter>
+    </ClInclude>
+    <ClInclude Include="VertexLS.h">
+      <Filter>Pliki nagłówkowe\GrafLS</Filter>
+    </ClInclude>
+    <ClInclude Include="Lista.h">
+      <Filter>Pliki nagłówkowe\Lista</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>Pliki nagłówkowe\Lista</Filter>
+    </ClInclude>
+    <ClInclude Include="Iterator.h">
+      <Filter>Pliki nagłówkowe\Lista</Filter>
+    </ClInclude>
+    <ClInclude Include="GrafMS.h">
+      <Filter>Pliki nagłówkowe\GrafMS</Filter>
+    </ClInclude>
+    <ClInclude Include="VertexMS.h">
+      <Filter>Pliki nagłówkowe\GrafMS</Filter>
+    </ClInclude>
+    <ClInclude Include="EdgeMS.h">
+      <Filter>Pliki nagłówkowe\GrafMS</Filter>
+    </ClInclude>
+    <ClInclude Include="MacierzKw.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Heap_Dis.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Distance.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Dijkstra.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="ObsIO.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Test.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="App.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
